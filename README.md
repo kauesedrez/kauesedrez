@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cedrosdev/winnetoujs_assets/master/logo_v1_2020/logo_logomarca_slogan_transparent.png" alt="Unform" />
+  
+</p>
 
-<!--
-**kauesedrez/kauesedrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [WinnetouJs](https://github.com/cedrosdev/winnetoujs)' Creator
+- Cedros Development's founder
+- Javascript entusiast
+- Programming evangelist
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+kaue.sedrez@gmail.com
