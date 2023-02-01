@@ -3,7 +3,8 @@
   
 </p>
 
-- [WinnetouJs](https://github.com/cedrosdev/winnetoujs)' Creator
+- Toustrm creator / programmer / owner - [Toustrm.com](toustrm.com)
+- [WinnetouJs](https://github.com/cedrosdev/winnetoujs) creator / programmer / owner - [Winnetoujs.org](winnetoujs.org)
 - Cedros Development's founder
 - Javascript entusiast
 - Programming evangelist
