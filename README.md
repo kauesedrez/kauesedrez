@@ -10,4 +10,4 @@
 - Programming evangelist
 
 ### Get in touch
-kaue.sedrez@gmail.com
+pamela@cedros.dev
